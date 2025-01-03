@@ -68,7 +68,7 @@ def main():
                 print(f"Data: {data}")
                 print(f"Números sorteados: {', '.join(numeros)}")
             else:
-                print(f"Não foi possível encontrar informações para o concurso {numero_concurso}.")
+                print(f"concurso ainda não realizado {numero_concurso}.")
         except ValueError:
             print("Por favor, insira um número de concurso válido!")
 
