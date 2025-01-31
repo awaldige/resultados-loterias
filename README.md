@@ -38,3 +38,4 @@ python consulta_loterias.py
 Siga as instruções exibidas no terminal para consultar o resultado dos concursos de loterias.
 
 Contribuições são bem-vindas! Se você deseja melhorar o código ou adicionar mais funcionalidades, fique à vontade para enviar um pull request.
+Este projeto está licenciado sob a Licença MIT.
